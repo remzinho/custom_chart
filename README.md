@@ -22,4 +22,6 @@ When click on any columns, it will expand into the number of nested records, num
 
 Hovering over any expanded column will show the timestamp of the measurement record.
 
+Because of caching issues, any modification in the `sample_results.json` will not take effect when displayed in the local server unless doing a clean page refresh (`cmd` + `shift` + `r`).
+
 Still WIP.
