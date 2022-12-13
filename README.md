@@ -4,7 +4,7 @@ This is a custom chart type written in d3js for performance comparison between m
 
 Resuls dictionary/json should be provided as in the `sample-results.json` model.
 
-To test, a local web server should be installed:
+To test, a local web server should be installed (ran with nodejs `18.12.1` but older worked too `14.17.0`):
 ```
 npm install http-sever -g
 ```
