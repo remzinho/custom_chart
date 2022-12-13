@@ -1,0 +1,66 @@
+{
+  "version A results": [
+    {
+      "result": 41,
+      "timestamp": 1667314600
+    },
+    {
+      "result": 39,
+      "timestamp": 1667313400
+    },
+    {
+      "result": 42,
+      "timestamp": 1667305600
+    },
+    {
+      "result": 41,
+      "timestamp": 1667301400
+    },
+    {
+      "result": 41,
+      "timestamp": 1667314600
+    },
+    {
+      "result": 39,
+      "timestamp": 1667313400
+    },
+    {
+      "result": 42,
+      "timestamp": 1667305600
+    },
+    {
+      "result": 41,
+      "timestamp": 1667301400
+    }
+  ],
+  "version B results": [
+    {
+      "result": 37,
+      "timestamp": 1667314700
+    },
+    {
+      "result": 38,
+      "timestamp": 1667314100
+    },
+    {
+      "result": 39,
+      "timestamp": 1667314200
+    }
+  ],
+  "version C results": [
+    {
+      "result": 51,
+      "timestamp": 1667314800
+    },
+    {
+      "result": 48,
+      "timestamp": 1667314900
+    }
+  ],
+  "version D results": [
+    {
+      "result": 51,
+      "timestamp": 1667314800
+    }
+  ]
+}
